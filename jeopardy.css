@@ -1,0 +1,20 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+#jeopardy {
+  text-align: center;
+  font-size: 5px;
+  background-color: blue;
+  color: white;
+
+}
+
+
+td:hover {
+  cursor: pointer;
+}
